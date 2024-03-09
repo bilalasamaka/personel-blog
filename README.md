@@ -1,2 +1,2 @@
-# personel-blog
-personel blog
+# ersonel-blog
+Personel Blog
